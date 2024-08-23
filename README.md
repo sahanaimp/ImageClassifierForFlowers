@@ -1,3 +1,3 @@
-# AI Programming with Python Project
+# Image Classifier Built with PyTorch for Classifying Flower Images.
 
-image classifier built with PyTorch for classifying flower images.
+
